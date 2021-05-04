@@ -1,5 +1,5 @@
 # !/usr/bin/env python3
-# HW 1 (04/16/2021)
+# (04/16/2021)
 # University of California, Santa Cruz - BME 163
 # Biomolecular Engineering and Bioinformatics
 # Name: Zachary Mason (zmmason@ucsc.edu)
